@@ -17,6 +17,12 @@ JLEI@DISCA.UPV.ES  | Jie.Lei.contact@gmail.com
 
 #### **Publications and Presentations**
 
+- 06/2024 [Mapping Parallel Matrix Multiplication in GotoBLAS2 to the AMD Versal ACAP for Deep Learning](https://arc.net/l/quote/mbhopaxf)
+<br /> *Lei, J., Quintana-Ort ́ı, E.S., 2024. Mapping Parallel Matrix Multipli- cation in GotoBLAS2 to the AMD Versal ACAP for Deep Learning. In: Proceedings of the PECS 2024 - Workshop on Performance and Energy Efficiency in Concurrent and Distributed Systems, Pisa, Italy, to appear.*
+
+- 02/2024[Hard SyDR: A Benchmarking Environment for Global Navigation Satellite System Algorithms](https://www.mdpi.com/1424-8220/24/2/409)
+<br /> *Grenier, A., Lei, J., Damsgaard, H.J., Quintana-Ort ́ı, E.S., Ometov, A., Lohan, E.S. and Nurmi, J., 2024. Hard SyDR: A Benchmarking Environment for Global Navigation Satellite System Algorithms. Sensors, 24(2), p.409. Available at: https://doi.org/10.3390/s24020409*
+
 - 10/2023 [👑 Best Doctoral consortium Poster at ACADEMIC MINDTREK 2023, Tampere, Finland](mindtrek2023/mindtrek_PAGE.md)
 
 - 06/2023 [Towards Benchmarking GNSS Algorithms on FPGA using SyDR](https://ieeexplore.ieee.org/abstract/document/10148916)
