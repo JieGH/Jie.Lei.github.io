@@ -12,9 +12,12 @@ Hi there 👋, my name is Jie Lei the Early Stage Researcher of the [APROPOS](ht
 
 
 
-Paper: 
+
+### Paper: 
 [Mapping Parallel Matrix Multiplication in GotoBLAS2 to the AMD Versal ACAP for Deep Learning](https://arc.net/l/quote/mbhopaxf)
 <br /> *Lei, J., Quintana-Ort ́ı, E.S., 2024. Mapping Parallel Matrix Multipli- cation in GotoBLAS2 to the AMD Versal ACAP for Deep Learning. In: Proceedings of the PECS 2024 - Workshop on Performance and Energy Efficiency in Concurrent and Distributed Systems, Pisa, Italy, to appear.*
+
+### Poster and breakdown:
 
 [Poster](ACACES24.pdf){:target="_blank"}
 
